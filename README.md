@@ -16,7 +16,7 @@ Please take care of out of scope domains.
 get your auth bearer by copy pasting " sessionStorage.getItem('shared-session-com.synack.accessToken'); " in console
 
 **Usage**
-bash Synacksubs.sh <<yoursynackAPIKey>>
+bash Synacksubs.sh <<yoursynackAPI::Key>>
  
   
   this will download the target name and subdomains from analytics
