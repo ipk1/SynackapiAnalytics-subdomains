@@ -1,6 +1,10 @@
 # SynackSubdomains
 ***********updated to pull subdomains and full paths ***********
+
+
 *********full path of accepted analytics is now stored in fullpath.txt*******
+
+**** save the script in a different directory the first line delets all .txt files*********
 
 A bash script to grab subdomains from Analytics
 
